@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo Enrique Martínez Moreno 👋
 
-I am a Software Engineering student at UPAEP (graduating December 2026) based in Puebla, Mexico. I focus on architecture, full-stack development AI-Driven development, practicing how to accelerate software cycles and build intelligent interactive systems.
+I am a Software Engineering student at UPAEP (graduating December 2026) based in Puebla, Mexico. I focus on architecture, full-stack development, AI-Driven development, practicing how to accelerate software cycles and build intelligent interactive systems.
 
 ---
 
