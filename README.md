@@ -30,7 +30,7 @@ A robust, role-based web system designed for coffee shop operations management.
 
 ## 🛠️ Technical Toolbox
 
-*   **Programming Languages:** Python, JavaScript, TypeScript, PHP, SQL, C, Java (Basic).
+*   **Programming Languages:** Python, JavaScript, TypeScript, SQL.
 *   **Frameworks & Web Tech:** Flask, Angular, HTML5, CSS3.
 *   **Methodologies & Standards:** AI-Driven Development, SCRUM (Fundamentals Certified), Software Requirements Engineering, Software Metrics (COSMIC Function Points)
 *   **Design & Tools:** Figma, Git, GitHub.
